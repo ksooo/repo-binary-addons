@@ -1,0 +1,1 @@
+pvr.rtlradio https://github.com/kodi-pvr/pvr.rtlradio Omega
